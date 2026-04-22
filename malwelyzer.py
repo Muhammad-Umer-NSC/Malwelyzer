@@ -129,7 +129,7 @@ TOOL_PATHS = {
 }
 
 # Get a free API key at https://www.virustotal.com/gui/join-us
-VIRUSTOTAL_API_KEY  = "7bc6b26bc60a7806f877e19180c6a27a852f3282482bd88e28b24855106b4d87"
+VIRUSTOTAL_API_KEY  = "Your-api-key"
 VT_TIMEOUT          = 30
 VT_MAX_FILE_SIZE    = 32 * 1024 * 1024   # 32 MB free-tier limit
 
